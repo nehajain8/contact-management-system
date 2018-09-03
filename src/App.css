@@ -1,0 +1,10 @@
+.search-wrapper,.show-contact {
+  margin: 10px auto;
+  max-width: 330px;
+}
+.contact-list-table {
+  table-layout: fixed;
+}
+.contact-list-table td, .contact-list-table th {
+    word-wrap: break-word;
+}
